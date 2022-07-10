@@ -27,3 +27,5 @@ Is there anything else you'd like your instructor to know?
 * 11:50: Created project directories, files and layout.
 ### 7/02/2022
 * 10:30: index.js completed.
+### 7/10/2022
+* 12:00: New project layout, content creep reined in, simpler stack
