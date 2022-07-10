@@ -17,3 +17,13 @@ If you finish developing the minimum viable product (MVP) with time to spare, wh
 What additional tools, frameworks, libraries, APIs, or other resources will these additional features require?
 
 Is there anything else you'd like your instructor to know?
+
+### Research & Planning Log
+#### 6/18/2022
+* 7:53: Wrote out capstone proposal based on idea submitted onto Capstone Google Spreadsheet.
+* 14:57: Researched examples of coffee shop websites and appealing UI designs.
+### 7/01/2022
+* 9:30: Updated README to contain project information and stack info
+* 11:50: Created project directories, files and layout.
+### 7/02/2022
+* 10:30: index.js completed.
