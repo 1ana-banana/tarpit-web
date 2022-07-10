@@ -29,3 +29,4 @@ Is there anything else you'd like your instructor to know?
 * 10:30: index.js completed.
 ### 7/10/2022
 * 12:00: New project layout, content creep reined in, simpler stack
+* 16:15: App.js, index.js, ./data/baristas.js and menu.js added, as well as images for baristas and menu items.
