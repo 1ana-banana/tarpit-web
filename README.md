@@ -28,4 +28,4 @@
 
 <br />
 
-![Tar Pit](./images/restaurant-2.jpg)
+![Tar Pit](src/images/restaurant-2.jpg)
