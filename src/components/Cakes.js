@@ -7,7 +7,7 @@ const Cakes = ({ id }) => {
 	return (
 		<div className="cakeContainer" id={id}>
 			<h1 className="cakeHeading">This Week's Specials</h1>
-			<h2 className='cakeHeading'>All of our cakes are gluten free and vegan, unless specified otherwise</h2>
+			<h4 className='cakeHeading'>All of our cakes are gluten free and vegan, unless specified otherwise</h4>
 			<div className="cakeWrapper">
 				{cakes.map((cake, index) => (
 					<Slide
