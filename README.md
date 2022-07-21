@@ -28,4 +28,4 @@
 
 <br />
 
-![Tar Pit](./assets/home.png)
+![Tar Pit](./src/images/restaurant-2.jpg)
