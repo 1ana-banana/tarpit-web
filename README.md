@@ -77,16 +77,5 @@ Functioning website made for a motorcycle-themed 3rd wave coffee shop based in B
 
 ## Contact <a id="contact"></a>
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 Anastasia Han [anastasia.han@yahoo.com](mailto:anastasia.han@yahoo.com) [LinkedIn](https://www.linkedin.com/in/jungyeonhan/) [GitHub](https://github.com/1ana-banana)
-=======
-=======
->>>>>>> parent of 687ed67 (AllTheThings)
-=======
->>>>>>> parent of 687ed67 (AllTheThings)
-Anastasia Han [anastasia.han@yahoo.com](mailto:anastasia.han@yahoo.com) 
 
-
->>>>>>> parent of 687ed67 (AllTheThings)
