@@ -11,7 +11,6 @@ const Footer = () => {
 			</div>
 			<div className="footerColumn">
 				<h4>About</h4>
-				<div>Contact us</div>
 				<div>Careers</div>
 			</div>
 			<div className="footerColumn">
