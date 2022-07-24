@@ -18,7 +18,7 @@ What additional tools, frameworks, libraries, APIs, or other resources will thes
 
 Is there anything else you'd like your instructor to know?
 
-### Research & Planning Log
+### Research & Planning Log (All times are in EST)
 #### 6/18/2022
 * 7:53: Wrote out capstone proposal based on idea submitted onto Capstone Google Spreadsheet.
 * 14:57: Researched examples of coffee shop websites and appealing UI designs.
@@ -30,3 +30,9 @@ Is there anything else you'd like your instructor to know?
 ### 7/10/2022
 * 12:00: New project layout, content creep reined in, simpler stack
 * 16:15: App.js, index.js, ./data/baristas.js and menu.js added, as well as images for baristas and menu items.
+### 7/17/2022
+* 09:00: Added Cakes js and css data.
+### 7/19/2022
+* 19:00-23:45: Added Cakes, Baristas, Favorites components to main page.
+### 7/23/2022
+* 16:00 - 20:00: Added Navbar, Sidebar, Footer. 
