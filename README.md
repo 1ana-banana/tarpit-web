@@ -14,8 +14,6 @@
 - Frontend - React & Styled Components
 - Styling - Bootstrap & CSS
 - Framework - Create React App
-- Shopping Cart - Snipcart
-- Contact Form - Formspree.io
 
 
 <br />
