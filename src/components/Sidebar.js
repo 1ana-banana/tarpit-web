@@ -26,12 +26,12 @@ const Sidebar = ({ toggle, show }) => {
 				<Link to="/" className="sideLink" onClick={() => scrollTo('favourite')}>
 					Special Cakes
 				</Link>
-				<Link to="/" className="sideLink">
+				<a href="mailto:hello@tarpitcoffee.com" className="sideLink">
 					Contact
-				</Link>
+				</a>
 
 				<div className="btnWrap">
-					<div className="sideRoute">Visit Tar Pit</div>
+					<div className="sideRoute"><a href = "https://goo.gl/maps/eHzaoVGLv9i6wkRS9">Visit Tar Pit</a></div>
 				</div>
 			</div>
 		</div>

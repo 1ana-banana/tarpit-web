@@ -15,7 +15,7 @@ const Main = () => {
       <Sidebar show = {show} toggle = {toggle}></Sidebar>
       <div className='content'>
         <div className='contentItems'>
-          <h1 className='navHead'>Words from the founder</h1>
+          <h1 className='navHead'>Words From the Founder</h1>
           <p>
           “Making delicious coffee, riding motorcycles, adding little nods to our Japanese heritage and supporting our friends in the art world. We have hosted art shows, live music, live paintings as often as possible and through those events give back to our local communities. 
 
@@ -23,7 +23,7 @@ const Main = () => {
 
           - Kerry Sano, FOUNDER
           </p>
-          <div className='btn'>Visit Tar Pit</div>
+          <div className='btn'><a href = "https://goo.gl/maps/eHzaoVGLv9i6wkRS9">Visit Tar Pit</a></div>
         </div>
       </div>
     </div>
