@@ -36,6 +36,11 @@
 	font-size: 2rem;
 }
 
+.protDescription{
+	font-weight: 200;
+	font-size: 1rem;
+}
+
 .cakeInfo{
 	display: flex;
 	flex-direction: column;

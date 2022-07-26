@@ -1,7 +1,6 @@
 .baristaImg{
 	height: 300px;
-	border-bottom: solid 9px #fdc500;
-	border-top: solid 3px #fdc500;
+	border: solid 2px black;
   width: 300px;
   object-fit: cover;
 }

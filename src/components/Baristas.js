@@ -19,6 +19,7 @@ const Baristas = ({ id }) => {
 							<img src={barista.img} className="baristaImg" alt={barista.alt} />
 							<div className="cakeInfo">
 								<div className="protTitle">{barista.name}</div>
+								<div className='protDescription'>{barista.detail}</div>
 							</div>
 						</div>
 					</Slide>
