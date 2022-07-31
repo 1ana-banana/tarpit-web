@@ -36,3 +36,5 @@ Is there anything else you'd like your instructor to know?
 * 19:00-23:45: Added Cakes, Baristas, Favorites components to main page.
 ### 7/23/2022
 * 16:00 - 20:00: Added Navbar, Sidebar, Footer. 
+### 7/25/2022 
+* 21:00 - 24:00: Added baristas details, which slides in together with barista name and image. Links were added to footer buttons.
