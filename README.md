@@ -67,7 +67,7 @@ Functioning website made for a motorcycle-themed 3rd wave coffee shop based in B
 
 ## Known Bugs <a id="bugs"></a>
 
-- Social Media buttons are not buttons yet. 
+- N/A
 
 ## License <a id="license"></a>
 
