@@ -26,15 +26,19 @@ Is there anything else you'd like your instructor to know?
 * 9:30: Updated README to contain project information and stack info
 * 11:50: Created project directories, files and layout.
 ### 7/02/2022
-* 10:30: index.js completed.
+* 10:30 - 16:00: index.js completed.
 ### 7/10/2022
 * 12:00: New project layout, content creep reined in, simpler stack
 * 16:15: App.js, index.js, ./data/baristas.js and menu.js added, as well as images for baristas and menu items.
 ### 7/17/2022
-* 09:00: Added Cakes js and css data.
+* 09:00 - 13:00: Added Cakes js and css data.
 ### 7/19/2022
 * 19:00-23:45: Added Cakes, Baristas, Favorites components to main page.
 ### 7/23/2022
 * 16:00 - 20:00: Added Navbar, Sidebar, Footer. 
 ### 7/25/2022 
 * 21:00 - 24:00: Added baristas details, which slides in together with barista name and image. Links were added to footer buttons.
+### 7/26/2022 
+* 21:00 - 24:00: Polish Navbar, Sidebar and Footer with more css and add Links.
+### 7/27/2022 
+* 21:00 - 24:00: Polish overall details and animation, add minor bugs with allignment of texts and images.
